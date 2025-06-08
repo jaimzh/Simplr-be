@@ -2,6 +2,8 @@
 
 This is the backend API for the Simplr Chrome Extension. It provides an endpoint that simplifies complex or technical text using Cloudflare’s AI platform (LLaMA 3.1 model) and the Hono web framework.
 
+**Frontend for Simplr Chrome Extension Repo:** [Simplr Frontend](https://github.com/jaimzh/Simplr-fe)
+
 ---
 
 ##  Endpoint
